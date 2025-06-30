@@ -73,8 +73,8 @@ MUSIALIZER_PLUG void *plug_load_resource(const char *file_path, size_t *size)
 
 #define PREVIEW_FPS 60
 
-#define RENDER_FPS 30
-#define RENDER_FACTOR 100
+#define RENDER_FPS 60
+#define RENDER_FACTOR 120
 #define RENDER_WIDTH (16*RENDER_FACTOR)
 #define RENDER_HEIGHT (9*RENDER_FACTOR)
 
